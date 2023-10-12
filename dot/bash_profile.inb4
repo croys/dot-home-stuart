@@ -1,0 +1,1 @@
+. $HOME/.bashrc || echo 1>&2 "ERROR: .bashrc failed with retval $?"
