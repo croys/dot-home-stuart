@@ -1,1 +1,4 @@
+export LANG=en_US.UTF-8
+export LESS='-aeFimsXR -j.15'
+
 . $HOME/.bashrc || echo 1>&2 "ERROR: .bashrc failed with retval $?"
