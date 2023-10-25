@@ -1,4 +1,4 @@
-export LANG=en_US.UTF-8
+export LANG=en_US.UTF-8 LC_COLLATE=C
 export LESS='-aeFimsXR -j.15'
 
 . $HOME/.bashrc || echo 1>&2 "ERROR: .bashrc failed with retval $?"
