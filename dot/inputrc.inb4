@@ -1,0 +1,6 @@
+#set editing-mode vi
+set match-hidden-files off
+set completion-ignore-case on
+
+#   Avoids clearing screen on Ctrl-L
+Control-l: redraw-current-line
